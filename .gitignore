@@ -1,4 +1,9 @@
 # Personal data (user fills these)
+cv.md
+article-digest.md
+inital_docs/
+interview-prep/*
+!interview-prep/.gitkeep
 data/applications.md
 data/pipeline.md
 data/scan-history.tsv
